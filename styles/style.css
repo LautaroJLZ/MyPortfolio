@@ -224,6 +224,7 @@ a {
     gap: 30px;
 }
 .skill-card {
+    margin: 20px;
     text-align: center;
     width: 200px;
     border-radius: 20px;
