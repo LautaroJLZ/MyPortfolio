@@ -429,6 +429,12 @@ footer {
     .container-main-me {
         display: inline-block;
     }
+    .container-form-contact {
+        margin: 20px;
+    }
+    .slider-main-container {
+        min-height: fit-content;    
+    }
 }
 @media (max-width: 440px) {
     /* Estilos barra de navegacion */
