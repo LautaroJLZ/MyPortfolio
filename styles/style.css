@@ -255,7 +255,7 @@ a {
 /* Slider styles */
 .slider-main-container {
     display: flex;
-    min-height: 100vh;
+    min-height: fit-content;
 }
 .container-slider {
     padding: 10px;
